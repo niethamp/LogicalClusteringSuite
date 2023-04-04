@@ -1,0 +1,9 @@
+cff-version: LCSwin_v0.5
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Philipp
+    given-names: Niethammer
+    orcid: https://orcid.org/0000-0003-4175-4012
+title: niethamp/LogicalClusteringSuiteWin: Logical Clustering Suite v0.5beta (Win PCs)
+version: LCSwin_v0.5
+date-released: 2023-04-04
